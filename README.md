@@ -5,8 +5,16 @@ Work on RevelTek, take-home Python coding test
 
 ## Summary of the tasks done in this repo. 
 
-To test and review the tasks, you need to have Python installed. and use your favorite IDE I recmmend vs code or Pycham:
+To test and review the tasks, you need to have Python installed. and use your favorite IDE I recmmend vscode or Pycharm:
 
+## How to test it localy
+
+In your vscode terminal run the following command:
+
+   1. Download Repo 
+      `` git clone (repository link)``
+   2. Run file
+    python file ```(ex: pythontest-1.py)
 
 ### ```test-1.py``` contain first task 
 
@@ -30,3 +38,4 @@ This task is similar to Task 1, but with different input parameters. Write a fun
 
 Task 4:
 Write a function that takes a string and a character as parameters. The function should loop through each character in the string and check if it matches the given character. If it does, increment a counter variable. Return the counter variable at the end.
+
